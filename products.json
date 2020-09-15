@@ -1,0 +1,436 @@
+{
+    "products": [
+      {
+        "id": 6,
+        "RQ": 0.08,
+        "rating": 4,
+        "name": "Honey",
+        "description": "High Neck Top",
+        "category": "Top",
+        "price": {
+          "value": 17,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/1.jpg"
+          }
+        ],
+        "reason": [
+          "8% of similar customers returned due to size",
+          "8% of similar customers felt the color to be different"
+        ]
+      },
+      {
+        "id": 16,
+        "RQ": 0.1,
+        "rating": 5,
+        "name": "Allen",
+        "description": "White Formal Shirt",
+        "category": "top",
+        "price": {
+          "value": 19,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/2.jpg"
+          }
+        ],
+        "reason": [
+          "10% of similar customers returned due to fit",
+          "10% of similar customers returned due to fabric quality"
+        ]
+      },
+      {
+        "id": 4,
+        "RQ": 0.15,
+        "rating": 4,
+        "name": "Allen",
+        "description": "Peach Casual Shirt",
+        "category": "Top",
+        "price": {
+          "value": 20,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/3.jpg"
+          }
+        ],
+        "reason": [
+          "15% of similar customers returned due to fit",
+          "Customer has returned similar product due to fit"
+        ]
+      },
+      {
+        "id": 18,
+        "RQ": 0.2,
+        "rating": 3,
+        "name": "Honey",
+        "description": "Crewneck T-Shirt",
+        "category": "Top",
+        "price": {
+          "value": 16,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/4.jpg"
+          }
+        ],
+        "reason": [
+          "20% similar customers have returned due to size",
+          "5% similar customers didn’t like the color difference"
+        ]
+      },
+      {
+        "id": 7,
+        "RQ": 0.25,
+        "rating": 4,
+        "name": "Allen",
+        "description": "V Neck Full sleeve Shirt",
+        "category": "Top",
+        "price": {
+          "value": 18,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/5.jpg"
+          }
+        ],
+        "reason": [
+          "Customer has returned similar product due to neck design",
+          "25% similar customers have returned due to product design"
+        ]
+      },
+      {
+        "id": 15,
+        "RQ": 0.3,
+        "rating": 3,
+        "name": "Allen",
+        "description": "Black Full sleeve Shirt",
+        "category": "Top",
+        "price": {
+          "value": 18,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/6.jpg"
+          }
+        ],
+        "reason": [
+          "30% similar customers have returned due to sleeve length",
+          "Customer has returned similar product due to fit"
+        ]
+      },
+      {
+        "id": 3,
+        "RQ": 0.35,
+        "rating": 5,
+        "name": "Vivian",
+        "description": "Floral Printed Shirt",
+        "category": "Top",
+        "price": {
+          "value": 21,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/7.jpg"
+          }
+        ],
+        "reason": [
+          "30% similar customers have returned due to difference in pattern",
+          "Customer has returned similar product due to fabric"
+        ]
+      },
+      {
+        "id": 14,
+        "RQ": 0.4,
+        "rating": 4,
+        "name": "Honey",
+        "description": "Long Sleeve Top",
+        "category": "Top",
+        "price": {
+          "value": 17,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/8.jpg"
+          }
+        ],
+        "reason": [
+          "20% similar customers have returned due to size",
+          "10% similar customers have returned due to quality",
+          "Customer has returned similar product due to size",
+          "Customer has returned similar product due to quality"
+        ]
+      },
+      {
+        "id": 5,
+        "RQ": 0.45,
+        "rating": 3,
+        "name": "Vivian",
+        "description": "Blue Casual Top",
+        "category": "Top",
+        "price": {
+          "value": 17,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/9.jpg"
+          }
+        ],
+        "reason": [
+          "30% similar customers have returned due to difference in color",
+          "Customer has returned similar product due to quality",
+          "Customer has returned similar product due to color"
+        ]
+      },
+      {
+        "id": 9,
+        "RQ": 0.5,
+        "rating": 4,
+        "name": "Allen",
+        "description": "Checkered Long Sleeve Top",
+        "category": "Top",
+        "price": {
+          "value": 15,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/10.jpg"
+          }
+        ],
+        "reason": [
+          "10% similar customers have returned due to shape",
+          "30% similar customers have returned due to weave type",
+          "20% similar customers have returned due to neckline",
+          "Customer has returned similar product due to shape"
+        ]
+      },
+      {
+        "id": 11,
+        "RQ": 0.55,
+        "rating": 3,
+        "name": "Vivian",
+        "description": "Floral Printed Top",
+        "category": "Top",
+        "price": {
+          "value": 18,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/11.jpg"
+          }
+        ],
+        "reason": [
+          "40% customers have returned due to fit",
+          "Customer has returned similar product due to fit"
+        ]
+      },
+      {
+        "id": 10,
+        "RQ": 0.6,
+        "rating": 4,
+        "name": "Honey",
+        "description": "Tunic Full sleeve Top",
+        "category": "Top",
+        "price": {
+          "value": 21,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/12.jpg"
+          }
+        ],
+        "reason": [
+          "50% similar customer have returned due to fabric type",
+          "Customer has returned similar fabric type"
+        ]
+      },
+      {
+        "id": 19,
+        "RQ": 0.65,
+        "rating": 3,
+        "name": "Shein",
+        "description": "V-Neck Full sleeve Top",
+        "category": "Top",
+        "price": {
+          "value": 20,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/13.jpg"
+          }
+        ],
+        "reason": [
+          "60% similar customers have returned due to size",
+          "Customer has returned similar product due to shape"
+        ]
+      },
+      {
+        "id": 2,
+        "RQ": 0.7,
+        "rating": 2,
+        "name": "Honey",
+        "description": "Printed Ruffle Neck Top",
+        "category": "Top",
+        "price": {
+          "value": 19,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/14.jpg"
+          }
+        ],
+        "reason": [
+          "40% similar customers have returned due to weave type",
+          "20% similar customers have returned due to fabric type",
+          "Customer has returned similar product due to size"
+        ]
+      },
+      {
+        "id": 20,
+        "RQ": 0.75,
+        "rating": 3,
+        "name": "Shein",
+        "description": "Casual Blue Top",
+        "category": "Top",
+        "price": {
+          "value": 17,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/15.jpg"
+          }
+        ],
+        "reason": [
+          "50% similar customers have returned due to size",
+          "10% similar customers have returned due to fit",
+          "15% similar customers have returned due to color"
+        ]
+      },
+      {
+        "id": 17,
+        "RQ": 0.8,
+        "rating": 4,
+        "name": "Shein",
+        "description": "Print Full sleeve Top",
+        "category": "Top",
+        "price": {
+          "value": 18,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/16.jpg"
+          }
+        ],
+        "reason": [
+          "50% similar customers have returned due to pattern",
+          "10% similar customers have returned due to color difference",
+          "Customer has returned similar product due to pattern"
+        ]
+      },
+      {
+        "id": 13,
+        "RQ": 0.85,
+        "rating": 3,
+        "name": "Shein",
+        "description": "V Neck Full sleeve Top",
+        "category": "Top",
+        "price": {
+          "value": 19,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/17.jpg"
+          }
+        ],
+        "reason": [
+          "80% similar customers have returned due to sleeve length",
+          "Customer has returned similar product due to size"
+        ]
+      },
+      {
+        "id": 12,
+        "RQ": 0.9,
+        "rating": 3,
+        "name": "Allen",
+        "description": "Printed Casual Top",
+        "category": "Top",
+        "price": {
+          "value": 22,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/18.jpg"
+          }
+        ],
+        "reason": [
+          "70% similar customers returned due to length",
+          "Customer has returned similar product due to fit",
+          "Cash on delivery",
+          "Customer has returned similar product due to color"
+        ]
+      },
+      {
+        "id": 8,
+        "RQ": 0.95,
+        "rating": 4,
+        "name": "Vivian",
+        "description": "Printed Floral Casual Top",
+        "category": "Top",
+        "price": {
+          "value": 21,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/19.jpg"
+          }
+        ],
+        "reason": [
+          "Customer returned similar product of different color",
+          "25% similar customers returned due to shape",
+          "10% similar customers returned due to Cash on Delivery"
+        ]
+      },
+      {
+        "id": 1,
+        "RQ": 0.98,
+        "rating": 5,
+        "name": "Vivian",
+        "description": "Tiger Print V-Neck Top",
+        "category": "Top",
+        "price": {
+          "value": 22,
+          "currencyIsoCode": "$"
+        },
+        "images": [
+          {
+            "url": "images/20.jpg"
+          }
+        ],
+        "reason": [
+          "Customer has returned same product of different colour",
+          "10% similar customers returned due to fit",
+          "20% similar customer returned due to size"
+        ]
+      }
+    ]
+  }
